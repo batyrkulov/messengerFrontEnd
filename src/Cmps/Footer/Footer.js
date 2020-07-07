@@ -10,7 +10,7 @@ const Footer = props => {
         <NavLink to={`/user/1`}>user/1</NavLink><br/><br/>
         <NavLink to={`/register`}>register</NavLink><br/>
         <NavLink to={`/login`}>login</NavLink><br/>
-        <NavLink to={`/wellcome`}>wellcome</NavLink>
+        <NavLink to={`/wellcome`}>wellcome!</NavLink>
     </div>
 }
 
