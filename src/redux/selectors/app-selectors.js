@@ -1,0 +1,1 @@
+export const selectAppGerr = state=>state.appReducer.appGlobalError;
